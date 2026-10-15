@@ -1,0 +1,3 @@
+**Completed: Service Capacity Validation**
+
+As a service coordinator, I can rely on the system to check the available service capacity before confirming an appointment. The system enforces a maximum total capacity of 4 vehicles, with a limit of 2 vehicles for the Engine category and 1 vehicle each for the Body and Short categories. Any reservation that exceeds the total or category-specific capacity is rejected, ensuring that the workshop does not accept more vehicles than it can handle.
