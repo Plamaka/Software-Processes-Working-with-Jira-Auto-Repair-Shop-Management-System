@@ -1,0 +1,2 @@
+# Service Coordinator Account Management (In Progress)
+The implementation of service coordinator account management is currently in progress. The final acceptance criterion, ensuring that customers and mechanics cannot elevate their own roles, is currently being implemented. The remaining functionality is still under development and requires further implementation and testing.
