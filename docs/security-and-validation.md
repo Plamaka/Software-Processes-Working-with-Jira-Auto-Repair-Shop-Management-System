@@ -1,0 +1,3 @@
+Completed: Backend Security and JWT Authorization
+
+The backend security infrastructure is configured to validate JWT access tokens and enforce authorization rules. Protected endpoints require a valid access token, and role-based access restrictions are enforced on the backend. Unauthorized requests receive the appropriate HTTP status codes, such as 401 Unauthorized for missing or invalid tokens and 403 Forbidden when an authenticated user lacks the required permissions.
